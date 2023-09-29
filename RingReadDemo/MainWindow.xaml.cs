@@ -18,6 +18,7 @@ namespace RingReadDemo
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
+    /// Note to self: Numbers represent ASCII - find a way to convert it to a character
     /// </summary>
     public partial class MainWindow : Window
     {
